@@ -1,0 +1,7 @@
+.vscode
+*.class
+mysql-connector-java-8.0.27.jar
+*/README.md
+*.xml
+*.iml
+*.meta
